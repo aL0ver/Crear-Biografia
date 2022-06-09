@@ -29,7 +29,7 @@ def toLowerCase(text):
         lowerCase = text.lower()
         return lowerCase
 actual_age = 2022
-months = ["Enero" , "Febrero" , "Marzo" , "Abril" , "Junio" , "Julio" , "Agosto" , "Septiembre" , "Octubre" , "Novienbre" , "Diciembre"]
+months = ["Enero" , "Febrero" , "Marzo" , "Abril" ,"Mayo", "Junio" , "Julio" , "Agosto" , "Septiembre" , "Octubre" , "Noviembre" , "Diciembre"]
 
 while True:
         while True:
